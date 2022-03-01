@@ -1,0 +1,25 @@
+.flex-all-center{
+  
+    height: 12vh;
+    background-color: var(--main-bg-color);
+    color: white; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lato', sans-serif;
+}
+nav .buttonsearch{
+    height: 20px;
+    margin: 19px 0px;
+    padding: 1px 7px;
+    background-color: var(--main-bg-color);
+    border: 1px white solid;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.card .line .text-centermy-1{
+    padding: 0px 25px;
+}
+.cards .card-item{
+    margin: 0px 23px;
+}
